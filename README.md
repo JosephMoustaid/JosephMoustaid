@@ -1,63 +1,66 @@
-![Welcome Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile!)
+<h1 align="center">Hi 👋, I'm Youssef Moustaid</h1>
+<h3 align="center">I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences.</h3>
 
-### Hi, I’m [Your Name]! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmoustaid&label=Profile%20views&color=0e75b6&style=flat" alt="josephmoustaid" /> </p>
 
-I’m a **software engineer** and **artist** passionate about creating immersive web platforms, innovative software, and breathtaking art. My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmoustaid" alt="josephmoustaid" /></a> </p>
 
----
+- 🔭 I’m currently working on **My art E-com webite**
 
-### 🚀 My Tech Stack
+- 🌱 I’m currently learning **JavaFX**
 
-#### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- 🤝 I’m looking for help with **Any project that involves Technology**
 
-#### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![A-Frame](https://img.shields.io/badge/A--Frame-FF4C29?style=for-the-badge&logo=aframe&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://github.com/JosephMoustaid](https://github.com/JosephMoustaid)
 
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 📝 I regularly write articles on [Byteburst](Byteburst)
 
-#### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 💬 Ask me about **Java Spring and spring boot**
 
----
+- 📫 How to reach me **moustaidyoussef@gmail.com**
 
-### 🌌 Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/youssef moustaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef moustaid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@winner__mentality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@winner__mentality" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@josephjoestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@josephjoestar" height="30" width="40" /></a>
+</p>
+ 
+### 💻 Technologies I Work With  
 
-#### Immerse - La plateforme web immersive via WebXYR
-- **Technologies:** React, A-Frame, MongoDB, Node.js, SCSS
-- **Description:** An innovative immersive web platform that merges virtual reality with interactive course management tools. View the full source code [here](https://github.com/username/immerse).
+#### Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-![Immerse Demo](https://via.placeholder.com/800x450?text=Immerse+Demo)
+#### Frameworks and Libraries  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![A-Frame](https://img.shields.io/badge/A--Frame-EA2845?style=for-the-badge&logo=aframe&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-#### AssetViewer
-- **Technologies:** A-Frame, React
-- **Description:** A 3D model viewer with interactive features for scaling, rotation, and annotations. Built with user navigation in mind.
+#### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
----
+#### Runtimes  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
-### 🎨 Artistic Endeavors
+#### Tools and Platforms  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-Aside from programming, I am a dedicated **artist** exploring new techniques and aiming for global recognition. Check out some of my art:
-
-![Art Example](https://via.placeholder.com/800x450?text=My+Art)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Email:** moustaidbusiness@gmail.com
-- **Hacker Rank** @josephjoestar
-
-![Footer](https://via.placeholder.com/1200x100?text=Thanks+for+visiting+my+GitHub!)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmoustaid&show_icons=true&locale=en&layout=compact" alt="josephmoustaid" /></p>
