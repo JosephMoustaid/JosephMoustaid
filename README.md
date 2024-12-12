@@ -79,17 +79,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ###
-### 🐍 GitHub Activity Snake  
-<p align="center">
-  <img src="https://github.com/josephmoustaid/josephmoustaid/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
-### 🔥 GitHub Stats  
+##
+### 🔥 More GitHub Stats  
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=josephmoustaid&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=josephmoustaid&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
