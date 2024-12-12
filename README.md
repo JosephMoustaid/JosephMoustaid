@@ -85,17 +85,9 @@
 
 ##
 ### 🔥 More GitHub Stats  
-<table align="center">
-  <tr>
-    <td>
+<p align="center">
       <img src="https://streak-stats.demolab.com?user=josephmoustaid&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephmoustaid&theme=radical" alt="Profile Details" />
-    </td>
-  </tr>
-</table>
+</p>  
 
 ###
