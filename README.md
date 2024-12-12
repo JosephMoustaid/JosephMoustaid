@@ -46,9 +46,9 @@
 ### 🚀 Recent Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/1.png" alt="Project 1" style="max-width: 30%; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/2.png" alt="Project 2" style="max-width: 30%; margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/3.png" alt="Project 3" style="max-width: 30%;">
+  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/1.png" alt="Project 1" style="width: 33%; height:200px ; margin-right: 10px; object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/2.png" alt="Project 2" style="width: 33%; height:200px ; margin-right: 10px;  object-fit:cover;">
+  <img src="https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/3.png" alt="Project 3" style="width: 33%;  height:200px ; object-fit:cover;">
 </p>
 
 
