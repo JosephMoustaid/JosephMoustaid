@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Moustaid</h1>
+
+![](https://github.com/JosephMoustaid/JosephMoustaid/assets/banner.gif)
+
 <h3 align="center">I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences.</h3>
 
 ### 🏆 Trophies  
