@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Youssef Moustaid</h1>
 <h3 align="center">I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephmoustaid&label=Profile%20views&color=0e75b6&style=flat" alt="josephmoustaid" /> </p>
+### 🏆 Trophies  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=josephmoustaid&theme=onestar&row=1&column=3&title=Repositories,Commits,Experience" alt="josephmoustaid" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephmoustaid" alt="josephmoustaid" /></a> </p>
+### 💹 Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmoustaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 
 - 🔭 I’m currently working on **My art E-com webite**
 
@@ -18,14 +29,17 @@
 - 💬 Ask me about **Java Spring and spring boot**
 
 - 📫 How to reach me **moustaidyoussef@gmail.com**
+##
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me 
 <p align="left">
 <a href="https://linkedin.com/in/youssef moustaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef moustaid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@winner__mentality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@winner__mentality" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@josephjoestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@josephjoestar" height="30" width="40" /></a>
 </p>
- 
+
+##
+
 ### 💻 Technologies I Work With  
 
 #### Languages  
@@ -36,6 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
 
 #### Frameworks and Libraries  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -63,4 +78,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmoustaid&show_icons=true&locale=en&layout=compact" alt="josephmoustaid" /></p>
+###
+### 🐍 GitHub Activity Snake  
+<p align="center">
+  <img src="https://github.com/josephmoustaid/josephmoustaid/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+### 🔥 GitHub Stats  
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=josephmoustaid&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=josephmoustaid&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephmoustaid&theme=radical" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
+###
