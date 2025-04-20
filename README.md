@@ -19,18 +19,13 @@
 
 
 - 🔭 I’m currently working on **My art E-com webite**
-
 - 🌱 I’m currently learning **JavaFX**
-
 - 🤝 I’m looking for help with **Any project that involves Technology**
-
 - 👨‍💻 All of my projects are available at [https://github.com/JosephMoustaid](https://github.com/JosephMoustaid)
-
 - 📝 I regularly write articles on [Byteburst](Byteburst)
-
 - 💬 Ask me about **Java Spring and spring boot**
-
 - 📫 How to reach me **moustaidbusiness@gmail.com**
+- 🐧 I am a Linux person. 
 ##
 
 ### 🔗 Connect with me 
