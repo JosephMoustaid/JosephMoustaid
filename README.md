@@ -20,7 +20,7 @@
 
 
 - 🔭 I’m currently working on **My art E-com webite**
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **Generative AI**
 - 🤝 I’m looking for help with **Any project that involves Technology**
 - 👨‍💻 All of my projects are available at [https://github.com/JosephMoustaid](https://github.com/JosephMoustaid)
 - 📝 I regularly write articles on [Byteburst](Byteburst)
