@@ -2,8 +2,9 @@
 
 ![Banner](https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/banner.gif)
 
-<h3 align="center">I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences.</h3>
-
+<h5 align="center">I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. </h5>
+<h5 align="center">I recently found out I like solving data science problems , therefore I am now specialozing in <bold>DATA SCINECE</bold>.</h5>
+<h5 aligh="center">My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences. </h5>
 ### 🏆 Trophies  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
