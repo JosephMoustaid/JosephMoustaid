@@ -2,8 +2,8 @@
 
 ![Banner](https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/banner.gif)
 
-<h3 align="start">📌 I’m a software engineer and artist passionate about creating immersive web platforms, innovative software, and breathtaking art. </h3>
-<h3 align="start">📌 I recently found out I like solving data science problems , therefore I am now specialozing in <bold>DATA SCINECE</bold>.</h3>
+<h3 align="start">📌 I’m a software engineer and artist passionate about creating innovative software, and breathtaking art. </h3>
+<h3 align="start">📌 I recently found out I like solving data science problems , therefore I am now specializing in <bold>DATA SCINECE</bold>.</h3>
 <h3 aligh="start">📌 My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences. </h3>
 ### 🏆 Trophies  
 <p align="center">
