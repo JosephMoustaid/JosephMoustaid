@@ -3,8 +3,8 @@
 ![Banner](https://raw.githubusercontent.com/JosephMoustaid/JosephMoustaid/main/assets/banner.gif)
 
 <h3 align="start">📌 I’m a software engineer and artist passionate about creating innovative software, and breathtaking art. </h3>
-<h3 align="start">📌 I recently found out I like solving data science problems , therefore I am now specializing in <bold>DATA SCINECE</bold>.</h3>
-<h3 aligh="start">📌 My mission is to blend technology and creativity to push boundaries and deliver exceptional user experiences. </h3>
+<h3 aligh="start">📌 Since I love Linux, I started learning bash scripting and linux administration for years now . and I found out Data engineering has a lot of involvement with Bash scripting, and data pipelines, so I moved to Data engineering. </h3>
+<h3 aligh="start">📌 Currently I am learning AWS, an amazing technology that I believe is indispensable nowadays with the growth of Data. wish me Luck with my AWS professional AWS data engineer specialization. </h3>
 ### 🏆 Trophies  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working on **My art E-com webite**
-- 🌱 I’m currently learning **Generative AI**
-- 🤝 I’m looking for help with **Any project that involves Technology**
+- 🔭 I’m currently working on **Innovative Data solutions**
+- 🌱 I’m currently learning **AWS Data tools**
+- 🤝 I’m looking for help with **Any project that involves AI and Data**
 - 👨‍💻 All of my projects are available at [https://github.com/JosephMoustaid](https://github.com/JosephMoustaid)
 - 📝 I regularly write articles on [Byteburst](Byteburst)
 - 💬 Ask me about **Java Spring and spring boot**
