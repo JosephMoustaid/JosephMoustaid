@@ -21,7 +21,7 @@
 ### 🚀 About Me
 - 🔭 Building **AWS-powered data pipelines**
 - 🌱 Learning **AWS Data Engineering & Apache Flink**
-- 🎯 Target: **AWS Certified Data Analytics**
+- 🎯 Target: **AWS Certified Data engineer**
 - 🐧 **Linux enthusiast** | Open-source advocate
 - 💼 Open to **Data/ML Engineering roles**
 - 📍 Based in **Morocco** 🇲🇦
