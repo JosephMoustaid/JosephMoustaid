@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 🚀 About Me
-- 🔭 Building **AWS-powered data pipelines**
+- 🔭 Building **Azure&AWS-powered data pipelines**
 - 🌱 Learning **AWS Data Engineering & Apache Flink**
 - 🎯 Target: **AWS Certified Data engineer**
 - 🐧 **Linux enthusiast** | Open-source advocate
@@ -32,6 +32,8 @@
 ### 🏆 Highlights
 - 🥇 **MIT x OpenAI Hackathon 2025**
 - 🥈 **National AI Hackathon Morocco** - Top 10
+- 🎓 **3 times Azure Certified** (2026)
+- 🎓 **IBM Data Scientist Professional** (2025)
 - 🎓 **IBM Data Engineer Professional** (2025)
 - 🎓 **Oracle Java SE 17 Certified** (2025)
 - ☁️ **AWS Cloud Practitioner** (In Progress)
