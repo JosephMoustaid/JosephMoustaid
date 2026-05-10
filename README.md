@@ -20,8 +20,8 @@
 
 ### 🚀 About Me
 - 🔭 Building **Azure&AWS-powered data pipelines**
-- 🌱 Learning **Azure Data Engineering & Apache Flink**
-- 🎯 Target: **Azure Certified AI engineer**
+- 🌱 Learning **Databricks**
+- 🎯 Target: **Azure Certified AI & Data engineer**
 - 🐧 **Linux enthusiast** | Open-source advocate
 - 💼 Open to **Data/ML Engineering roles**
 - 📍 Based in **Morocco** 🇲🇦
